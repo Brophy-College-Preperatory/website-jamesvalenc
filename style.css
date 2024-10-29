@@ -1,0 +1,69 @@
+body, html {
+    background-color: rgb(199, 149, 220); 
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(244, 228, 108);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+  }
+  
+  #website {
+    border-style: solid;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  }
+  
+  .parallax {
+    
+    background-image: url("/assets/87203581-13623925-image-a-13_1720705320984.avif");
+  
+    
+    height: 60%;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .parallaxtwo {
+    background-image: url("/assets/bronny-james-lakers-g.webp");
+  
+    height: 60%;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  
